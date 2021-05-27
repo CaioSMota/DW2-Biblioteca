@@ -1,0 +1,9 @@
+.gerenciamento #botaoCadastrarFuncionario{
+    font-size: large;
+    text-align: center;
+    background-color: #0084ff;
+    margin: 20px 70% 0px 10px;
+    color: white;
+    border-radius: 5px;
+
+}

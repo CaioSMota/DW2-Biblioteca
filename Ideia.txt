@@ -1,0 +1,6 @@
+Vamos fazer um sistema para emprestimos de livro de uma biblioteca
+
+Autores:
+Funcionario
+Gerente
+
