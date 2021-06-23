@@ -1,0 +1,49 @@
+.gerenciamento input{
+    text-align: center;
+    border:1px solid black;
+    border-radius: 5px;
+    margin: 20px 0px 0px 10px;
+}
+
+.table{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border:1px solid black;
+}
+
+.titulos td{
+    padding: 20px;
+}
+
+.livrosConteudo{
+    width: 30%;
+    margin: 30px auto;
+    height: auto;
+    background-color: #0084ffb2;
+    border: black solid;
+}
+
+.conteudo{
+    margin-top: 5%;
+    margin-left: 25%;
+    font-size: large;
+}
+
+.conteudo #nome{
+    font-weight: bold;
+}
+
+.imagem{
+    margin-left: 3%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    float: left;
+    height: 200px;
+    width: 150px;
+}
+
+.container{
+    display: flex;
+    margin-left: 10px;
+}
