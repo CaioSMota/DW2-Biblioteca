@@ -1,0 +1,47 @@
+.clienteConteudo{
+        width: 30%;
+        margin: 30px auto;
+        height: auto;
+        background-color: #0084ffb2;
+        border: black solid;
+}
+
+
+#botaoPesquisarClie{
+        text-align: center;
+        width: auto;
+        background-color: #0084ff;
+        color: white;
+        margin-left: 10px;
+}
+
+
+#botaoPesquisarClie:hover{
+        text-align: center;
+        width: auto;
+        background-color: white;
+        color: #0084ff;
+        cursor: pointer;
+}
+
+#pesquisa,#botaoPesquisarClie{
+        border:1px solid black;
+        height: 20px;
+        border-radius: 3px;
+        margin-top: 20px;
+}
+
+.gerenciamentoCliente{
+        margin-left: 40%;
+        margin-right: 35%;
+}
+
+div.conteudoCliente{
+        margin-left: auto;
+        margin-right: auto;
+}
+
+div.conteudoCliente #nome{
+        font-weight: bold;
+        font-size: larger;
+}

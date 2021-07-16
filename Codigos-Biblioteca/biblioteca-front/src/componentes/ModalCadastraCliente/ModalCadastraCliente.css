@@ -1,0 +1,60 @@
+.button {
+  float: left;
+  margin: 20px 0px 0px 0px;
+    text-align: center;
+    width: auto;
+    height: 20px;
+    background-color: #0084ff;
+    color: white;
+}
+
+.button:hover{
+    background-color: white;
+    color: #0084ff;
+    cursor: pointer;
+}
+
+
+.modal-background {
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(10, 10, 10, 0.86);
+}
+
+.modal-card-cadastro-cliente {
+  margin: 0 auto;
+  display: block;
+  margin-top: 250px;
+  width: 30%;
+  height: 26%;
+  background-color: #b3c2cf;
+  border-radius: 5px;
+}
+
+#cancelButton{
+  margin-right: 20px;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr.spaceUnder>td {
+  padding-bottom: .5em;
+}
+
+td.spaceRight {
+  padding-right: 15px;
+}
+
+h1.spaceTop{
+  padding-top: 10px;
+}
+
+#btnCadCliente{
+  margin-right: 10px;
+}

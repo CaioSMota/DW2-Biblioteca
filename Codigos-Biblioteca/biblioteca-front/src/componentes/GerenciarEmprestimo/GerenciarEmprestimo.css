@@ -1,0 +1,48 @@
+.imagemEmprestimo{
+    margin-left: 20%;
+    margin-right: 5%;
+    margin-top: 15%;
+    margin-bottom: 5%;
+    float: left;
+    height: 200px;
+    width: 150px;
+    border-style: dashed;
+    border-spacing: 1px;
+    border-color: black;
+}
+
+#gerenciarEmprestimo{
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    color: aliceblue;
+    background-color: #01519c;
+}
+
+#gerenciarEmprestimo:hover{
+    cursor: pointer;
+    color: #01519c;
+    background-color: aliceblue;
+}
+
+#botaoPesquisarEmp{
+    text-align: center;
+    width: auto;
+    background-color: #0084ff;
+    color: white;
+}
+#botaoPesquisarEmp:hover{
+    text-align: center;
+    width: auto;
+    background-color: white;
+    color: #0084ff;
+    cursor: pointer;
+}
+
+
+.gerenciamentoEmp input{
+    border:1px solid black;
+    height: 20px;
+    border-radius: 3px;
+    margin: 20px 0px 0px 10px;
+}

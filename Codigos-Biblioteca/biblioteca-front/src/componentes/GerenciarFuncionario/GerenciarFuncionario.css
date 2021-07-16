@@ -1,0 +1,60 @@
+.gerenciamentoFunc{
+        margin-left: 40%;
+        margin-right: 35%;
+}
+
+#pesquisaFunc,#botaoPesquisarFunc{
+        border:1px solid black;
+        height: 20px;
+        border-radius: 3px;
+        margin: 20px 0px 0px 10px;
+}
+
+.funcConteudo{
+        width: 30%;
+        margin: 30px auto;
+        height: auto;
+        background-color: #0084ffb2;
+        border: black solid;
+}
+
+.imagemFunc{
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        float: left;
+        height: 200px;
+        width: 150px;
+}
+
+#botaoCadastrarFuncionario{
+        text-align: center;
+        width: auto;
+        background-color: #0084ff;
+        color: white;
+}
+
+#botaoCadastrarFuncionario:hover{
+        text-align: center;
+        width: auto;
+        background-color: white;
+        color: #0084ff;
+        cursor: pointer;
+}
+
+#botaoPesquisarFunc{
+        text-align: center;
+        width: auto;
+        background-color: #0084ff;
+        color: white;
+}
+
+
+#botaoPesquisarFunc:hover{
+        text-align: center;
+        width: auto;
+        background-color: white;
+        color: #0084ff;
+        cursor: pointer;
+}

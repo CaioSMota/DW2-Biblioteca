@@ -1,0 +1,102 @@
+#pesquisaLivro,#botaoPesquisarLivro{
+    border:1px solid black;
+    height: 20px;
+    border-radius: 3px;
+    margin: 20px 0px 0px 10px;
+}
+.gerenciamentoLivros{
+    margin-left: 40%;
+    margin-right: 35%;
+}
+
+.table{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border:1px solid black;
+}
+
+.titulos td{
+    padding: 20px;
+}
+
+.livrosConteudo{
+    width: 30%;
+    margin: 30px auto;
+    background-color: #1990ffb2;
+    border: black solid;
+}
+
+.conteudo{
+    margin-top: 5%;
+    margin-bottom: 2.5%;
+    margin-left: 25%;
+    font-size: large;
+}
+
+.conteudo #nome{
+    font-weight: bold;
+}
+
+#EditButtonLivro{
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    color: aliceblue;
+    background-color: #01519c;
+}
+
+#EditButtonLivro:hover{
+    cursor: pointer;
+    color: #01519c;
+    background-color: aliceblue;
+}
+
+.imagemLivro{
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    float: left;
+    height: 200px;
+    width: 150px;
+    border-style: dashed;
+    border-spacing: 1px;
+    border-color: black;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+}
+
+
+#botaoPesquisarLivro {
+    text-align: center;
+    width: auto;
+    background-color: #0084ff;
+    color: white;
+}
+
+#botaoPesquisarLivro:hover{
+    text-align: center;
+    width: auto;
+    background-color: white;
+    color: #0084ff;
+    cursor: pointer;
+}
+
+#botaoCadastrarLivro{
+    text-align: center;
+    width: auto;
+    background-color: #0084ff;
+    color: white;
+}
+
+#botaoCadastrarLivro:hover{
+    text-align: center;
+    width: auto;
+    background-color: white;
+    color: #0084ff;
+    cursor: pointer;
+}
